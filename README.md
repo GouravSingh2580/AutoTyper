@@ -2,7 +2,7 @@
 AutoTyper - A Data transcription Tool for Windows and Linux
 
 <h2 align="center">
-  <img src="https://i.redd.it/ufw005hqa5t61.gif" alt="Look up!" width="600px" />
+  <img src="https://64.media.tumblr.com/202193a26051f3a1808f15a23f144693/tumblr_opmao385WC1ra5a63o1_400.gifv" alt="Look up!" width="600px" />
   <br>
 </h2>
 
