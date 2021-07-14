@@ -1,5 +1,10 @@
-# AutoTyper
+# AutoTyper 🚀
 AutoTyper - A Data transcription Tool for Windows and Linux
+
+<h2 align="center">
+  <img src="https://i.redd.it/ufw005hqa5t61.gif" alt="Look up!" width="600px" />
+  <br>
+</h2>
 
 ## Python Version:
 Python 3
@@ -29,3 +34,6 @@ pacman -S tk
 **Graphical User Interface**
 
 	python autoTyperGUI.py
+## Author
+
+- **Gourav singh** - [https://github.com/GouravSingh2580](https://github.com/GouravSingh2580)
